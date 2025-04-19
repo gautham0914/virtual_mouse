@@ -19,7 +19,7 @@ A Python-based virtual mouse system that lets you control your mouse cursor and 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/virtual-mouse.git
+git clone https://github.com/gautham0914/virtual_mouse.git
 cd virtual-mouse
 ```
 
